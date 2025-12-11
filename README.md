@@ -4,7 +4,7 @@ Archived Apps and Alternatives to Retired Microsoft Products
  ### Win32 Apps:
   
   - Microsoft WordPad (Last officially available in Windows 11 23H2)
-  - Steps Recorder (Recommended Alternative - Better Steps Recorder created by MentaLeak https://github.com/Mentaleak/BetterStepsRecorder)
+  - Steps Recorder (Recommended Alternative - Better Steps Recorder created by MentaLeak https://github.com/Mentaleak/BetterStepsRecorder as Microsoft believes Xbox GameBar, ClipChamp and SnippingTool will replace functionality of PSR https://support.microsoft.com/en-us/windows/steps-recorder-deprecation-a64888d7-8482-4965-8ce3-25fb004e975f)
 
  ### UWP Apps:
   
